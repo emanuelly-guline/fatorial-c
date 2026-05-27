@@ -12,6 +12,6 @@ int main()
     resultado = fatorial(n);
 
     printf("o fatorial de %d é %d \n", n, fatorial);
-    printf("feito por Allyson Rodolfo")
+    printf("feito por Emanuelly Guline Miguel de Oliveira")
     return 0;
 }
